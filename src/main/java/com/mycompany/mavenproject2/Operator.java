@@ -8,11 +8,11 @@ package com.mycompany.mavenproject2;
  *
  * @author Abhimanyu Singh
  */
-public class Finding_greatest_number {
-    public static void main(String[]arg){
-        int a=10,b=20,c=7;
-        int r=(a>b)?(a>c?a:c):(b>c?b:c);
-        System.out.print(r);
+public class Operator {
+    public static void main(String []args){
+        int a=10;
+        a+=10;
+        System.out.println(a); //10 ---9
+       
     }
-    
 }
