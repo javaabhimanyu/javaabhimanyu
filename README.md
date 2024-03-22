@@ -1,6 +1,5 @@
 👨‍🎓 I'm a Web Developer & Software Engineer Student
 🔭 I’m currently working on the Backend Developer Role
-👨‍🏫 I'm the Community Leader at Codecademy JU
 💬 Ask me about anything, I am happy to help
 ✍ I'm a Technical Person Youtuber with 1839+ subscribers
 🌱 I'm currently learning to do the job:
