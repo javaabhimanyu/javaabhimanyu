@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @javaabhimanyu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-javaabhimanyu/javaabhimanyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍🎓 I'm a Web Developer & Software Engineer Student
+🔭 I’m currently working on the Backend Developer Role
+👨‍🏫 I'm the Community Leader at Codecademy JU
+💬 Ask me about anything, I am happy to help
+✍ I'm a Technical Person Youtuber with 1839+ subscribers
+🌱 I'm currently learning to do the job:
+Data Structures and Algorithms on LeetCode
+Tools and technologies from the  java, HTML, CSS, JavaScript, MySQL, Database, Bootstrap, C language, Core
+PHP, MongoDB.
+👯 Join my community if you're a new tech ideas (https://www.youtube.com/c/NewTechIdeas)
+📬 How to reach me: javaabhimanyu@gmail.com
+📝 Resume.
+💪 This is where I write, code, and solve problems:
